@@ -28,8 +28,6 @@
 [<img align="left" alt="Colab" width="26px" src="https://www.tutorialspoint.com/google_colab/images/google-colab-mini-logo.jpg" />]
 
 <br />
-<br />
----
 
 ### 📕 Latest Blog Posts
 
