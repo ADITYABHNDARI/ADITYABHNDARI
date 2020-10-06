@@ -12,6 +12,7 @@
 [<img align="left" alt="ADITYABHNDARI | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ADITYABHNDARI | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ADITYABHNDARI | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ADITYABHNDARI | Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -25,11 +26,13 @@
 [<img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />]
 [<img align="left" alt="Jupyter Lab" width="26px" src="https://simpleicons.org/icons/jupyter.svg" />]
 [<img align="left" alt="Colab" width="26px" src="https://www.tutorialspoint.com/google_colab/images/google-colab-mini-logo.jpg" />]
-<br/>
-<br/>
+
+<br />
+<br />
 
 [website]: https://medium.com/@AdityaBhandarii
 [instagram]: https://www.instagram.com/adityabhandariii/
 [twitter]: https://twitter.com/AdityaBhndari
 [youtube]: https://www.youtube.com/channel/UCpbR16TxC48pOCz-S4E6Pfg
 [linkedin]: https://www.linkedin.com/in/adityabhndari/
+[facebook]: https://www.facebook.com/AdityaBhandari05
