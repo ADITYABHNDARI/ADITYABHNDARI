@@ -27,9 +27,7 @@
 [<img align="left" alt="Jupyter Lab" width="26px" src="https://simpleicons.org/icons/jupyter.svg" />]
 [<img align="left" alt="Colab" width="26px" src="https://www.tutorialspoint.com/google_colab/images/google-colab-mini-logo.jpg" />]
 
-<br />
-<br />
-
+---
 [website]: https://medium.com/@AdityaBhandarii
 [instagram]: https://www.instagram.com/adityabhandariii/
 [twitter]: https://twitter.com/AdityaBhndari
