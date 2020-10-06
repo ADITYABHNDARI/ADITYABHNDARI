@@ -37,7 +37,7 @@
 - [Performing Analysis of Meteorological Data](https://medium.com/@AdityaBhandarii/performing-analysis-of-meteorological-data-2cf5145c3961?source=rss-159c523863b2------2)
 <!-- BLOG-POST-LIST:END -->
 
-<img align="left" alt="Aditya's GitHub Stats" src="https://github-readme-stats.ADITYABHNDARI.vercel.app/api?username=ADITYABHNDARI&show_icons=true&hide_border=true" />
+<img align="left" alt="Aditya's GitHub Stats" src="https://github-readme-stats.adityabhndari.vercel.app/api?username=ADITYABHNDARI&show_icons=true&hide_border=true" />
 
 [website]: https://medium.com/@AdityaBhandarii
 [instagram]: https://www.instagram.com/adityabhandariii/
