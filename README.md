@@ -1,5 +1,9 @@
 ### Hi there, I'm [Aditya][website] 👋
 
+![Twitter Follow](https://img.shields.io/twitter/follow/AdityaBhndari?style=social)
+![Discord](https://img.shields.io/discord/704177091729686668?color=%237289DA&label=Join%20My%20Discord%20server&logo=Discord)
+
+
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
