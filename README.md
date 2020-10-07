@@ -29,7 +29,7 @@
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
 [<img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />][website]
 [<img align="left" alt="Jupyter Lab" width="26px" src="https://simpleicons.org/icons/jupyter.svg" />][website]
-[<img align="left" alt="Colab" width="26px" src="https://www.tutorialspoint.com/google_colab/images/google-colab-mini-logo.jpg" />][website]
+[<img align="left" alt="Colab" width="26px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />][website]
 [<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />][website]
 [<img align="left" alt="Hadoop" width="26px" src="https://hadoop.apache.org/elephant.png" />][website]
