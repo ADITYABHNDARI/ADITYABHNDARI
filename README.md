@@ -40,7 +40,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Python 3.9.0 is now available, and you can already test 3.10.0a1!](https://medium.com/@AdityaBhandarii/python-3-9-0-is-now-available-and-you-can-already-test-3-10-0a1-fcfed2092625?source=rss-159c523863b2------2)
-- [Multiple Color Detection in Real-Time using Python-OpenCV](https://medium.com/@AdityaBhandarii/multiple-color-detection-in-real-time-using-python-opencv-by-aditya-bhandari-6bd7fd26dd7e?source=rss-159c523863b2------2)
+- [Multiple Color Detection in Real-Time using Python-OpenCV](https://medium.com/analytics-vidhya/multiple-color-detection-in-real-time-using-python-opencv-by-aditya-bhandari-6bd7fd26dd7e?source=rss-159c523863b2------2)
 - [Recognizing Handwritten Digits with Scikit-Learn](https://medium.com/@AdityaBhandarii/recognizing-handwritten-digits-with-scikit-learn-92bc21c8b7cf?source=rss-159c523863b2------2)
 - [Performing Analysis of Meteorological Data](https://medium.com/@AdityaBhandarii/performing-analysis-of-meteorological-data-2cf5145c3961?source=rss-159c523863b2------2)
 <!-- BLOG-POST-LIST:END -->
