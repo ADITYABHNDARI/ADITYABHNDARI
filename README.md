@@ -2,6 +2,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/AdityaBhndari?style=social)
 ![Discord](https://img.shields.io/discord/704177091729686668?color=%237289DA&label=Join%20My%20Discord%20server&logo=Discord)
+<a href="https://medium.com/@AdityaBhandarii"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
 
 
 - 🌱 I’m currently learning Data Science 📊
