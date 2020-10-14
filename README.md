@@ -19,6 +19,7 @@
 [<img align="left" alt="ADITYABHNDARI | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="ADITYABHNDARI | Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
 [<img align="left" alt="ADITYABHNDARI | DEV" width="22px" src="https://simpleicons.org/icons/dev-dot-to.svg" />][dev]
+[<img align="left" alt="ADITYABHNDARI | Stackoverflow" width="22px" src="https://simpleicons.org/icons/stackoverflow.svg" />][sof]
 
 <br />
 
@@ -58,3 +59,4 @@
 [linkedin]: https://www.linkedin.com/in/adityabhndari/
 [facebook]: https://www.facebook.com/AdityaBhandari05
 [dev]: https://dev.to/adityabhandari
+[sof]: https://stackoverflow.com/users/14235599/aditya-bhandari?tab=profile
