@@ -42,11 +42,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Iron Man Mask Using Turtle](https://medium.com/@adityabhandarii/iron-man-mask-using-turtle-75e580cea502?source=rss-159c523863b2------2)
 - [Text Classification with IMDb Movie Reviews](https://medium.com/analytics-vidhya/text-classification-with-imdb-movie-reviews-3ce35ddc1fbf?source=rss-159c523863b2------2)
 - [Real-Time Detection of Running Cars using Python-OpenCV](https://medium.com/analytics-vidhya/real-time-detection-of-running-cars-using-python-opencv-2337c7a9a207?source=rss-159c523863b2------2)
 - [Python 3.9.0 is now available, and you can already test 3.10.0a1!](https://medium.com/@adityabhandarii/python-3-9-0-is-now-available-and-you-can-already-test-3-10-0a1-fcfed2092625?source=rss-159c523863b2------2)
 - [Multiple Color Detection in Real-Time using Python-OpenCV](https://medium.com/analytics-vidhya/multiple-color-detection-in-real-time-using-python-opencv-by-aditya-bhandari-6bd7fd26dd7e?source=rss-159c523863b2------2)
-- [Recognizing Handwritten Digits with Scikit-Learn](https://medium.com/analytics-vidhya/recognizing-handwritten-digits-with-scikit-learn-92bc21c8b7cf?source=rss-159c523863b2------2)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
