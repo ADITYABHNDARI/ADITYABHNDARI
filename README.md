@@ -19,8 +19,8 @@
 [<img align="left" alt="ADITYABHNDARI | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="ADITYABHNDARI | Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
 [<img align="left" alt="ADITYABHNDARI | DEV" width="28px" src="https://simpleicons.org/icons/dev-dot-to.svg" />][dev]
-[<img align="left" alt="ADITYABHNDARI | Stackoverflow" width="22px" src="https://simpleicons.org/icons/stackoverflow.svg" />][sof]
-[<img align="left" alt="ADITYABHNDARI | Reddit" width="22px" src="https://simpleicons.org/icons/reddit.svg" />][red]
+[<img align="left" alt="ADITYABHNDARI | Stackoverflow" width="28px" src="https://simpleicons.org/icons/stackoverflow.svg" />][sof]
+[<img align="left" alt="ADITYABHNDARI | Reddit" width="29px" src="https://simpleicons.org/icons/reddit.svg" />][red]
 
 <br />
 
