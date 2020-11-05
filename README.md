@@ -21,7 +21,7 @@
 [<img align="left" alt="ADITYABHNDARI | Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
 [<img align="left" alt="ADITYABHNDARI | DEV" width="28px" src="https://simpleicons.org/icons/dev-dot-to.svg" />][dev]
 [<img align="left" alt="ADITYABHNDARI | Stackoverflow" width="24px" src="https://simpleicons.org/icons/stackoverflow.svg" />][sof]
-[<img align="left" alt="ADITYABHNDARI | Reddit" width="25px" src="https://simpleicons.org/icons/reddit.svg" />][red]
+[<img align="left" alt="ADITYABHNDARI | Reddit" width="26px" src="https://simpleicons.org/icons/reddit.svg" />][red]
 
 <br />
 
@@ -29,7 +29,7 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="SQL" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
-[<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
+[<img align="left" alt="MySQL" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
 [<img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />][website]
@@ -37,7 +37,7 @@
 [<img align="left" alt="Colab" width="30px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />][website]
 [<img align="left" alt="Bash" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />][website]
-[<img align="left" alt="Hadoop" width="28px" src="https://hadoop.apache.org/elephant.png" />][website]
+[<img align="left" alt="Hadoop" width="27px" src="https://hadoop.apache.org/elephant.png" />][website]
 
 <br />
 
