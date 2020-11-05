@@ -36,7 +36,7 @@
 [<img align="left" alt="Colab" width="30px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />][website]
 [<img align="left" alt="Bash" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />][website]
-[<img align="left" alt="Hadoop" width="27px" src="https://hadoop.apache.org/elephant.png" />][website]
+[<img align="left" alt="Hadoop" width="26px" src="https://hadoop.apache.org/elephant.png" />][website]
 
 <br />
 
