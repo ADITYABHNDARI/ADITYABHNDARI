@@ -43,11 +43,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Make Discord Bot using Python](https://medium.com/@adityabhandarii/make-discord-bot-using-python-fba437b38cd3?source=rss-159c523863b2------2)
 - [Among Us character using Turtle Python](https://medium.com/@adityabhandarii/among-us-character-using-turtle-python-1641585720d9?source=rss-159c523863b2------2)
 - [Iron Man Mask Using Turtle](https://medium.com/@adityabhandarii/iron-man-mask-using-turtle-75e580cea502?source=rss-159c523863b2------2)
 - [Text Classification with IMDb Movie Reviews](https://medium.com/analytics-vidhya/text-classification-with-imdb-movie-reviews-3ce35ddc1fbf?source=rss-159c523863b2------2)
 - [Real-Time Detection of Running Cars using Python-OpenCV](https://medium.com/analytics-vidhya/real-time-detection-of-running-cars-using-python-opencv-2337c7a9a207?source=rss-159c523863b2------2)
-- [Python 3.9.0 is now available, and you can already test 3.10.0a1!](https://medium.com/@adityabhandarii/python-3-9-0-is-now-available-and-you-can-already-test-3-10-0a1-fcfed2092625?source=rss-159c523863b2------2)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
