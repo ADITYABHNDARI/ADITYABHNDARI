@@ -1,7 +1,6 @@
 ### Hi there, I'm [Aditya][website] 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/AdityaBhndari?style=social)
-![Discord](https://img.shields.io/discord/704177091729686668?color=%237289DA&label=Join%20My%20Discord%20server&logo=Discord)
+[![Discord](https://img.shields.io/discord/704177091729686668?color=%237289DA&label=Join%20My%20Discord%20server&logo=Discord)](https://discord.gg/kGDk2kBkme)
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H52YUOD)
 <a href="https://adityabhandarii.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
 
@@ -16,7 +15,7 @@
 [<img align="left" alt="ADITYABHNDARI | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="ADITYABHNDARI | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ADITYABHNDARI | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="ADITYABHNDARI | DEV" width="28px" src="https://simpleicons.org/icons/dev-dot-to.svg" />][dev]
+[<img align="left" alt="ADITYABHNDARI | DEV" width="22px" src="https://simpleicons.org/icons/dev-dot-to.svg" />][dev]
 
 
 <br />
