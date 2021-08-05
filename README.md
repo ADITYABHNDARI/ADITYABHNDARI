@@ -45,8 +45,6 @@
 
 <img align="left" alt="Aditya's GitHub Stats" src="https://github-readme-stats.adityabhndari.vercel.app/api?username=ADITYABHNDARI&theme=highcontrast&show_icons=true&hide_border=true" />
 
-<br />
-### JOKES
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 [website]: https://adityabhandarii.medium.com/
