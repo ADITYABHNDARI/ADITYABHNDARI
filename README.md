@@ -45,6 +45,8 @@
 
 <img align="left" alt="Aditya's GitHub Stats" src="https://github-readme-stats.adityabhndari.vercel.app/api?username=ADITYABHNDARI&theme=highcontrast&show_icons=true&hide_border=true" />
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 [website]: https://adityabhandarii.medium.com/
 [instagram]: https://www.instagram.com/adityabhandariii/
 [youtube]: https://www.youtube.com/channel/UCpbR16TxC48pOCz-S4E6Pfg
