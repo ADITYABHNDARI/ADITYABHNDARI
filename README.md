@@ -33,6 +33,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Rafa-Goku" height="110" width="210" src="https://media.giphy.com/media/HYPaqlmC4fUpa/source.gif?cid=ecf05e47r48mnuomqu1avz6mrcnavphnffv3lcl326hue2xt&rid=source.gif&ct=g">
  
 </div>
 
