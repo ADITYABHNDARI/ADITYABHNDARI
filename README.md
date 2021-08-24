@@ -1,4 +1,4 @@
-### Hi there, I'm [Aditya][website] 👋
+### Hi there, I'm Aditya 👋
 
 - 🌱 I’m currently learning Data Science 📊
 - 🥅 2021 Goals: Contribute more to Open Source projects 📜
@@ -46,7 +46,7 @@
   <a href="https://www.linkedin.com/in/adityabhndari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "https://adityabhandarii.medium.com/"><img src="https://img.shields.io/badge/-Medium-%23333?style=for-the-badge&logo=Medium&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ADITYABHNDARI/ADITYABHNDARI/blob/output/github-contribution-grid-snake.svg)
   
   ![Jokes Card](https://readme-jokes.vercel.app/api)
  
