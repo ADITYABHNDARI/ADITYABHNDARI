@@ -1,36 +1,9 @@
 ### Hi there, I'm [Aditya][website] 👋
 
-[![Discord](https://img.shields.io/discord/704177091729686668?color=%237289DA&label=Join%20My%20Discord%20server&logo=Discord)](https://discord.gg/kGDk2kBkme)
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H52YUOD)
-<a href="https://adityabhandarii.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
-
-
 - 🌱 I’m currently learning Data Science 📊
 - 🥅 2021 Goals: Contribute more to Open Source projects 📜
 - ⚡ Fun fact: I love to do Data Analysis and playing Cricket 🏏 / Soccer ⚽
-
-### Connect with me:
-
-[<img align="left" alt="Aditya Blogs" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ADITYABHNDARI | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="ADITYABHNDARI | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ADITYABHNDARI | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="MySQL" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
-[<img align="left" alt="Jupyter Lab" width="26px" src="https://simpleicons.org/icons/jupyter.svg" />][website]
-[<img align="left" alt="Colab" width="30px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />][website]
-[<img align="left" alt="Bash" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />][website]
-
-<br />
+##
 
 ### 📕 Latest Blog Posts
 
@@ -41,14 +14,41 @@
 - [Iron Man Mask Using Turtle](https://adityabhandarii.medium.com/iron-man-mask-using-turtle-75e580cea502?source=rss-159c523863b2------2)
 - [Text Classification with IMDb Movie Reviews](https://medium.com/analytics-vidhya/text-classification-with-imdb-movie-reviews-3ce35ddc1fbf?source=rss-159c523863b2------2)
 <!-- BLOG-POST-LIST:END -->
-<br />
+##
 
-<img align="left" alt="Aditya's GitHub Stats" src="https://github-readme-stats.adityabhndari.vercel.app/api?username=ADITYABHNDARI&theme=highcontrast&show_icons=true&hide_border=true" />
+<div>
+  
+  <a href="https://github.com/ADITYABHNDARI">
+  <img height="180em" src="https://github-readme-stats.adityabhndari.vercel.app/api?username=ADITYABHNDARI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYABHNDARI&layout=compact&langs_count=7&theme=dracula"/>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+</div>
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ 
+</div>
 
-[website]: https://adityabhandarii.medium.com/
-[instagram]: https://www.instagram.com/adityabhandariii/
-[youtube]: https://www.youtube.com/channel/UCpbR16TxC48pOCz-S4E6Pfg
-[linkedin]: https://www.linkedin.com/in/adityabhndari/
-[dev]: https://dev.to/adityabhandari
+##
+ 
+<div> 
+  <a href="https://www.youtube.com/channel/UCpbR16TxC48pOCz-S4E6Pfg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/adityabhandariii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/kGDk2kBkme" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "https://dev.to/adityabhandari"><img src="https://img.shields.io/badge/-Dev-%23333?style=for-the-badge&logo=Dev.to&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/adityabhndari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href = "https://adityabhandarii.medium.com/"><img src="https://img.shields.io/badge/-Medium-%23333?style=for-the-badge&logo=Medium&logoColor=white" target="_blank"></a>
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
+ 
+</div>
+
