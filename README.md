@@ -1,8 +1,9 @@
 ### Hi there, I'm Aditya 👋
 
-- 🌱 I’m currently learning Data Science 📊
-- 🥅 2021 Goals: Contribute more to Open Source projects 📜
-- ⚡ Fun fact: I love to do Data Analysis and playing Cricket 🏏 / Soccer ⚽
+
+- 👨‍💻 I'm trying out New-Stuff 🔥
+- 🥅 2021 Goals: Contribute more to Open Source projects 📜 
+- 🎮 CALL OF DUTY : MOBILE - UID - 6750983103453921281 - KINGツSLAYERR ⚡
 ##
 
 ### 📕 Latest Blog Posts
@@ -28,7 +29,7 @@
   <img align="center" alt="Adi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Adi-ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
   <img align="center" alt="Adi-jupy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="Adi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Adi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
   <img align="center" alt="Adi-Go" height="70" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
   <img align="center" alt="Adi-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Adi-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
