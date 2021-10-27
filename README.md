@@ -20,8 +20,8 @@
 <div>
   
   <a href="https://github.com/ADITYABHNDARI">
-  <img height="180em" src="https://github-readme-stats.adityabhndari.vercel.app/api?username=ADITYABHNDARI&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYABHNDARI&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="170em" src="https://github-readme-stats.adityabhndari.vercel.app/api?username=ADITYABHNDARI&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYABHNDARI&layout=compact&langs_count=7&theme=highcontrast"/>
 
 </div>
   
