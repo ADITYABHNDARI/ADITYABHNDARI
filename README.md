@@ -26,13 +26,13 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Adi-Python" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Adi-Python" height="39" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Adi-ruby" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
   <img align="center" alt="Adi-jupy" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">  
-  <img align="center" alt="Adi-Go" height="70" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
   <img align="center" alt="Adi-js" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">   
   <img align="center" alt="Adi-c#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Adi-Java" height="59" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Adi-Go" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">  
   <img align="right" alt="Adi-Goku" height="95" width="200" src="https://media.giphy.com/media/HYPaqlmC4fUpa/source.gif?cid=ecf05e47r48mnuomqu1avz6mrcnavphnffv3lcl326hue2xt&rid=source.gif&ct=g">
  
 </div>
