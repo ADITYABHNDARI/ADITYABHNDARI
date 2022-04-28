@@ -1,8 +1,7 @@
 ### Hi there, I'm Aditya 👋
 
 
-- 👨‍💻 I'm trying out New-Stuff 🔥
-- 🥅 2021 Goals: Contribute more to Open Source projects 📜 
+- 👨‍💻 I'm trying out New-Stuff 🔥 
 - 🎮 CALL OF DUTY : MOBILE - UID - 6750983103453921281 - KINGツSLAYERR ⚡
 ##
 
@@ -43,7 +42,6 @@
   <a href="https://www.youtube.com/channel/UCpbR16TxC48pOCz-S4E6Pfg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/adityabhandariii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/kGDk2kBkme" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/AdityaBhndarii" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adityabhndari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "https://adityabhandarii.medium.com/"><img src="https://img.shields.io/badge/-Medium-%23333?style=for-the-badge&logo=Medium&logoColor=white" target="_blank"></a>
  
