@@ -1,4 +1,4 @@
-### Hi there, I'm Aditya <img src="https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif" width="10"><br>
+### Hi there, I'm Aditya <img src="https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif" width="25"><br>
 
 
 - 👨‍💻 I'm trying out New-Stuff 🔥 
