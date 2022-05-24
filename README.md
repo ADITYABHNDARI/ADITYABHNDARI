@@ -51,6 +51,7 @@
  
 </div>
 <p align="left"> 
-  Visitor count <img src="https://profile-counter.glitch.me/ADITYABHNDARI/count.svg" />
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ADITYABHNDARI/count.svg" />
 </p>
 
