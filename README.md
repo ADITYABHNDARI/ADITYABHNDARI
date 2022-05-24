@@ -50,8 +50,13 @@
   ![Jokes Card](https://readme-jokes.vercel.app/api)
  
 </div>
+ 
+##
+ 
+<div>  
 <p align="left"> 
    Visitor count-<br>
   <img src="https://profile-counter.glitch.me/ADITYABHNDARI/count.svg" />
 </p>
+</div>  
 
