@@ -28,9 +28,8 @@
   <img align="center" alt="Adi-Python" height="39" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Adi-jupy" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">  
   <img align="center" alt="Adi-js" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">   
-  <img align="center" alt="Adi-Java" height="59" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Adi-Go" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"> 
-</div>
+  <img align="center" alt="Adi-Java" height="59" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
+  </div>
 
 ##
  
