@@ -4,8 +4,6 @@
 - 🎮 CALL OF DUTY : MOBILE - UID - 6750983103453921281 - KINGツSLAYERR ⚡
 ##
 
-##
-
 <div>
   
   <a href="https://github.com/ADITYABHNDARI">
@@ -20,13 +18,13 @@
   <a href="https://www.instagram.com/adityabhandariii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/kGDk2kBkme" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/adityabhndari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/ADITYABHNDARI/ADITYABHNDARI/blob/output/github-contribution-grid-snake.svg)
   
   ![Jokes Card](https://readme-jokes.vercel.app/api)
  
 </div>
- 
+  
+![Snake animation](https://github.com/ADITYABHNDARI/ADITYABHNDARI/blob/output/github-contribution-grid-snake.svg) 
+  
 ##
  
 <div>  
